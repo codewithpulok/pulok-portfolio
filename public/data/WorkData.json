@@ -1,6 +1,6 @@
 [
   {
-    "JobTitles": "Software Engineer (Tech Lead)",
+    "JobTitles": "iBos",
     "JobDescription": {
       "Description": "As a React Developer, I am responsible for developing and implementing user interface components using React.js workflows. I am working closely with the product and design teams to ensure that all user-facing features are both visually appealing and highly functional",
       "Responsibilities": [
@@ -101,36 +101,4 @@
     "Website": "https://www.upwork.com/freelancers/~010d6209cd08fc74cb",
     "CompanyLogo": "https://i.ibb.co/Y49Jw5Z/unnamed.png"
   },
-  {
-    "JobTitles": "Talent Placement Executive",
-    "JobDescription": {
-      "Description": "Programming Hero is an online-based learning platform that helps passionate developers to achieve their goals. Apart from teaching, Programming through our app and web courses, we're evolving and empowering Companies to find and connect with excellent Web-Developers to build a great team globally.",
-      "Responsibilities": [
-        "Building network worldwide and exploring web developing opportunities",
-        "Connection bridge from students to authority",
-        "Solving student's issues in different aspects",
-        "It is placing individual candidates for the job that correctly matches to build their career path.",
-        "Connecting companies with the top talents who have finished our courses with excellency",
-        "Marketing the company's image to clients and the general people through my content",
-        "Connecting companies with the top talents who have finished our courses with excellency",
-        "Planning new features and ideas for teams well-being",
-        "Working with alumni students and solving their issues"
-      ]
-    },
-    "Skills": [
-      "Project Management",
-      "Teamwork",
-      "Communication",
-      "Relationship",
-      "Public Speaking",
-      "Time Management"
-    ],
-    "JoinDate": "July 2022",
-    "EndDate": "October 2022",
-    "CompanyName": "Programming Hero",
-    "Location": "USA (Remote)",
-    "JobType": "Full Time",
-    "Website": "https://www.programming-hero.com/",
-    "CompanyLogo": "https://i.ibb.co/kKkyk2t/download.jpg"
-  }
 ]
