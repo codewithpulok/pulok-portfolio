@@ -15,7 +15,7 @@ const About = () => {
                         <img src={developer} alt="" />
                     </div>
                     <div className="right">
-                        <h3>Hi! This is Sagar D. I am a self thought</h3> <h3 style={{ color: "var(--cuteColor)" }}>Programmer.💻👨🏻‍💻👨🏻</h3> <br />
+                        <h3>Hi! This is Pulok D. I am a self thought</h3> <h3 style={{ color: "var(--cuteColor)" }}>Programmer.💻👨🏻‍💻👨🏻</h3> <br />
                         <p>People think that programmer have no life. But believe me I have my life. I enjoy programming that's why I am here.</p>
                         <br />
                         <p>you can try this concept for reach the state of no life.</p>
