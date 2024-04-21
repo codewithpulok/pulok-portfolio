@@ -45,7 +45,7 @@ const HeroSection = () => {
         <div className="hero" onMouseEnter={handleMouseEnter}
             onMouseLeave={handleMouseLeave}>
             <div className="left__content">
-                <h1>Hey, I'm <span style={{ color: "var(--cuteColor)" }}>Sagar!</span></h1>
+                <h1>Hey, I'm <span style={{ color: "var(--cuteColor)" }}>Pulok D!</span></h1>
                 <br />
                 <h2>Welcome to my zone😉</h2>
                 <br />
